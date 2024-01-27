@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #F0FFFF;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px;
+    text-align: center;
+}
+
+word {
+    font-weight: bold;
+    font-family: "monano", monospace;
+}
+
+num {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
+
+div {
+    font-size: 25px;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    font-size: 23px;
+    background-color: white;
+    margin: 0 auto;
+}

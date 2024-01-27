@@ -1,0 +1,80 @@
+body {
+    font-family: "Sofia", sans-serif;
+    background: #F0FFFF;
+}
+
+img {
+    border-radius: 20%;
+}
+
+h1 {
+    padding: 30px;
+    font-size: 60px;
+    text-align: center;
+    background: #ffbd67;
+    background-image: url(background.jpg);
+    background-size: 1500px 155px;  
+}
+
+h2 {
+    padding: 5px;
+    font-size: 30px;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    font-size: 25px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 22px;
+}
+
+form {
+    font-size: 20px;
+}
+
+input {
+    font-size: 18px;
+}
+
+.order {
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px;
+    text-align: center;
+}
+
+.add {
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer {
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    background: #2F4F4F;
+    margin-top: 10px;
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid #2F4F4F;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: "Trirong", serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+  
+a:hover, a:active {
+    background-color: #2F4F4F;
+    color: white;
+}
