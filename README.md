@@ -1,6 +1,6 @@
 # restaurantWebApp
 > restaurant web application project for data management system course
-> developed in a local environment called XAMPP
+### developed in a local environment called XAMPP
 
 Key Features:
 * Order Management: Facilitated easy access to all orders on a specific date.
