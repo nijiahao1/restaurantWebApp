@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #F0FFFF;
+}
+
+date {
+    padding: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+name1 {
+    font-weight: bold;
+    font-family: "monano", monospace;
+}
+
+name2 {
+    font-weight: bold;
+    font-family: "monano", monospace;
+}
+
+food {
+    color: mediumvioletred;
+    font-style: oblique;
+    font-weight: bold;
+    font-family: "monano", monospace;
+  }
+
+money {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
+
+th, td {
+    font-size: 22px;
+    border: 8px solid #F0FFFF;;
+    border-collapse: collapse;
+    background-color: #80f0f0;
+}
+
+table {
+    font-size: 22px;
+    border: 30px solid #F0FFFF;
+    border-collapse: collapse;
+}
+
+.footer {
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    background: #2F4F4F;
+    margin-top: 10px;
+    font-family: "Sofia", sans-serif;
+}
